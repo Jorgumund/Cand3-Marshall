@@ -14,7 +14,7 @@ organizations:
     url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include migration, demographic methods and Quant methods.
 
 # Interests to show in About widget
 interests:
@@ -76,4 +76,4 @@ W, Zachary Marshall is a sociology PhD student at McGill University. His researc
 
 Zachary has also had the oppurtunity to teach courses at McGill university, including the courses: Introduction to statistics (Soci-350), and international Migration (Soci-212).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv - Marshall 2022.pdf" "newtab" >}}resumé{{< /staticref >}}.

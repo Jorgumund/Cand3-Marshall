@@ -24,16 +24,16 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  Degrees:
+    - course: PhD in Sociology
+      institution: McGill
+      year: 2017-Current
+    - course: MA in Sociology
+      institution: University of Western Ontario (Now Western University)
+      year: 2014-2015
+    - course: HBA in Sociology with a Minor in Political Science
+      institution: Kings University College
+      year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,9 +52,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+
+# - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

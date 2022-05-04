@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-W, Zachary Marshall is a sociology PhD student at McGill University. His research interests migration (with a current focus on refugees), demography and quant methods. 
+W. Zachary Marshall is a sociology PhD student at McGill University. His research interests migration (with a current focus on refugees), demography and quant methods. 
 
 Zachary has also had the oppurtunity to teach courses at McGill university, including the courses: Introduction to statistics (Soci-350), and international Migration (Soci-212).
 

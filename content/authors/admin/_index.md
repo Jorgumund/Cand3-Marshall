@@ -40,19 +40,19 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#   link: '/#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 
 #  - icon: linkedin
 #    icon_pack: fab
@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: uploads/cv - Marshall 2022.pdf
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,8 +72,8 @@ email: ''
 highlight_name: true
 ---
 
-W, Zachary Marshall is a sociology PhD student at McGill University. His research interests migration (with a current focus on refugees), demography and quant methods. 
+W. Zachary Marshall is a sociology PhD student at McGill University. His research interests migration (with a current focus on refugees), demography and quant methods. 
 
 Zachary has also had the oppurtunity to teach courses at McGill university, including the courses: Introduction to statistics (Soci-350), and international Migration (Soci-212).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv - Marshall 2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
